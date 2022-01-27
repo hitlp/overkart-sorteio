@@ -4,7 +4,7 @@ import time
 import functions
 
 def header():
-    system('cls')
+    system('clear')
     today = date.today()
     print("\n\n")
     print("    _")
