@@ -32,7 +32,7 @@ def header():
 
 def menu():
 
-    initContent = input("Deseja iniciar o sorteio? [S]im ou [N]ao\n")
+    initContent = raw_input("Deseja iniciar o sorteio? [S]im ou [N]ao\n")
     if initContent == 'S' or initContent == 's':
         #functions.executeContent()
         #system('cls')
