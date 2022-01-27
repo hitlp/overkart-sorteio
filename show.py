@@ -27,7 +27,7 @@ def header():
     print("   | |")
     print("   | |")
     print("   | |")
-    print("   | | Data do sorteio", today)
+    print("   | | Data do sorteio", str(today))
     print("\n\n")
 
 def menu():
